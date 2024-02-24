@@ -10,7 +10,7 @@
 - Elixir
 
 **Connect with me:**
-- LinkedIn: [Victor Damasceno](https://www.linkedin.com/in/victor-damasceno/)
+- LinkedIn: [Victor Damasceno](https://www.linkedin.com/in/victor-c-damasceno)
 
 I'm always eager to learn new things and take on exciting challenges. Feel free to reach out if you have any projects or opportunities in mind!
 
