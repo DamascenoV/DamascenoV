@@ -4,8 +4,6 @@
 - PHP (Laravel)
 - Javascript/Typescript (VueJS and NuxtJS)
 - Dart (Flutter)
-
-**Currently Learning:**
 - Golang
 - Elixir
 
